@@ -10,7 +10,6 @@ namespace Nelinurk
 	{
 		Ruut,
 		Ristkülik,
-		Romb,
-		Rööpkülik
+		Romb
 	}
 }
